@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/2nd-Level/Nodejs-Express-Server-Template#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "knex": "^0.19.5",
     "sqlite3": "^4.1.0"
   },
